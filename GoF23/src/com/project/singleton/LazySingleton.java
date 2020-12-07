@@ -4,7 +4,6 @@ package com.project.singleton;
  * 懒汉式单例
  * 优点：懒加载、延迟加载，第一次调用时创建单例对象
  * 缺点：为了线程安全，获取单例方法加锁，所以效率低
- * @author chaixf
  *
  */
 public class LazySingleton {

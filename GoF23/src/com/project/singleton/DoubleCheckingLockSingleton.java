@@ -3,7 +3,6 @@ package com.project.singleton;
  * 双重检查锁单例
  * 
  * 注：由于编译器优化原因和JVM底层内部模型的原因,偶尔会出问题
- * @author chaixf
  *
  */
 public class DoubleCheckingLockSingleton {

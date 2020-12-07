@@ -5,7 +5,6 @@ import java.io.Serializable;
 /**
  * 以懒汉式为例子
  * 写入文件的对象要实现序列化接口
- * @author chaixf
  */
 public class BugSingleton  implements Serializable {
 	private static final long serialVersionUID = 1L;

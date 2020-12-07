@@ -3,7 +3,6 @@ package com.project.singleton;
  * 饿汉式单例
  * 有点：效率高，线程安全
  * 缺点：不能懒加载
- * @author chaixf
  *
  */
 public class HungrySingleton {
